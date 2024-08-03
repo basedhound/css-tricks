@@ -1,0 +1,17 @@
+/* https://www.youtube.com/shorts/81pnuZFarRw */
+
+.full-bleed {
+    box-shadow: 0 0 0 100vmax var(--bg-color, #121212);
+    clip-path: inset(0 -100vmax);
+}
+
+.inverse {
+    --bg-color: hsl(100 50% 20%); /* Variable */
+    background-color: var(--bg-color, #121212);
+    color: #efefef;
+}
+
+.container {
+    width: min(calc(80%-2rem), 60rem);
+    margin-inline: auto;
+}

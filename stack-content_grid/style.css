@@ -1,0 +1,30 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+img {
+  width: 100%;
+}
+
+h1 {
+  color: #fff;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 7rem;
+}
+
+.stacked {
+  display: grid;
+  place-items: center;
+  isolation: isolate;
+}
+
+.stacked > * {
+  grid-column: 1;
+  grid-row: 1/-1;
+}
+
+.stacked > .media {
+  z-index: -1;
+}

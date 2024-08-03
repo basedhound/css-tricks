@@ -1,0 +1,26 @@
+  body {
+    background:black
+  }
+
+  /* Old method be like... */
+  /* @media (min-width: 300px) and (max-width: 600px) {
+    body {
+      background: green;
+    }
+  } */
+
+/* But now we can... */
+
+@media (300px <= width <= 600px) {
+  body {
+    background: green;
+  }
+}
+
+/* It also works with orientation */
+
+@media (width >= 600) or (orientation: landscape) {
+  body {
+    background: purple;
+  }
+}

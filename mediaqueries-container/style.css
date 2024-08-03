@@ -1,0 +1,41 @@
+
+body { 
+  margin: 0;
+}
+
+.container { 
+  max-width: 1536px;
+  background-color: blue;
+  height: 100vh;
+  margin: auto;
+}
+
+@media screen and (max-width: 1536px) {
+  .container {
+    max-width: 1280px;
+  }
+}
+
+@media screen and (max-width: 1280px) {
+  .container {
+    max-width: 1024px;
+  }
+}
+
+@media screen and (max-width: 1024px) {
+  .container {
+    max-width: 768px;
+  }
+}
+
+@media screen and (max-width: 780px) {
+  .container {
+    max-width: 640px;
+  }
+}
+
+@media screen and (max-width: 640px) {
+  .container {
+    max-width: 100%;
+  }
+}
