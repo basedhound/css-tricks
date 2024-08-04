@@ -2,7 +2,7 @@
 <a href="" target="_blank">
       <img src="preview.webp" alt="Project Banner">
     </a>
-  <h3 align="center">Components - CSS / JavaScript</h3>
+  <h3 align="center">CSS Tricks & Good Practices</h3>
 </div>
 
 ##  <br /> 📋 <a name="table">Table of Contents</a>
@@ -17,6 +17,12 @@
 
 **[EN]** This collection is designed to enhance your CSS skills and deepen your understanding of core CSS concepts. It includes a variety of practical examples and best practices that cover common challenges and advanced techniques in CSS.
 
+**[FR]** Cette collection est conçue pour améliorer vos compétences en CSS et approfondir votre compréhension des concepts de base du CSS. Elle inclut une variété d'exemples pratiques et de bonnes pratiques qui couvrent les défis courants et les techniques avancées en CSS.
+
+<div align="center">
+  <h3 align="center">Contentt</h3>
+</div>
+
 - **Sticky Footer**: Creating a footer that sticks to the bottom of the page regardless of content height.
 
 - **Responsive Media Queries**: Using media queries to create responsive designs that look great on all devices.
@@ -28,20 +34,6 @@
 - **Responsive  Gallery**: Creating a responsive image gallery using Flexbox.
 
 - **Twitch Category Clone**: Reproducing Twitch category layout using CSS Grid.
-
-**[FR]** Cette collection est conçue pour améliorer vos compétences en CSS et approfondir votre compréhension des concepts de base du CSS. Elle inclut une variété d'exemples pratiques et de bonnes pratiques qui couvrent les défis courants et les techniques avancées en CSS.
-
-- **Sticky Footer**: Création d'un pied de page qui reste collé au bas de la page, quelle que soit la hauteur du contenu.
-
-- **Responsive Media Queries**: Utilisation des media queries pour créer des designs réactifs qui s'affichent parfaitement sur tous les appareils.
-
-- **Fullwidth Background Inside a Container**: Techniques pour appliquer un arrière-plan pleine largeur à l'intérieur d'un conteneur contraint.
-
-- **Flexbox and Grid Layouts**: Méthodes de mise en page modernes pour créer des structures de pages flexibles et efficaces.
-
-- **Responsive  Gallery**: Création d'une galerie d'images réactive en utilisant Flexbox.
-
-- **Twitch Category Clone**: Reproduction de la section catégorie Twitch en utilisant CSS Grid.
 
 
 ##  <br /> <a name="tech-stack">⚙️ Tech Stack</a>
