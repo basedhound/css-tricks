@@ -18,7 +18,7 @@
 **[FR]** Cette collection est conçue pour améliorer vos compétences en CSS et approfondir votre compréhension des concepts de base du CSS. Elle inclut une variété d'exemples pratiques et de bonnes pratiques qui couvrent les défis courants et les techniques avancées en CSS.
 
 <div align="center">
-  <h3 align="center">Contentt</h3>
+  <h3 align="center">Content</h3>
 </div>
 
 - **Sticky Footer**: Creating a footer that sticks to the bottom of the page regardless of content height.
