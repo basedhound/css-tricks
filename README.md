@@ -13,8 +13,6 @@
 
 ##  <br /> <a name="introduction">✨ Introduction</a>
 
-[Preview](/.design)
-
 **[EN]** This collection is designed to enhance your CSS skills and deepen your understanding of core CSS concepts. It includes a variety of practical examples and best practices that cover common challenges and advanced techniques in CSS.
 
 **[FR]** Cette collection est conçue pour améliorer vos compétences en CSS et approfondir votre compréhension des concepts de base du CSS. Elle inclut une variété d'exemples pratiques et de bonnes pratiques qui couvrent les défis courants et les techniques avancées en CSS.
